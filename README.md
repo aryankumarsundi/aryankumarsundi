@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aryankumarsundi
-- 👀 I’m interested in php developer job profile
-- 🌱 I’m currently working as php developer in The Driven Race & Club Solutions
-- 💞️ I have more than 6 years of working experience
+- 👀 I’m interested in Full-Stack Developer job profile
+- 🌱 I’m currently working as Full-Stack Developer in The Valethi Technology
+- 💞️ I have more than 7+ years of working experience
 - 📫 My Email: aryankumarsundi@gmail.com 
      Mobile No.: 7972641902
 <!---
